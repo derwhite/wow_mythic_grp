@@ -13,7 +13,6 @@ Nodemage-Nathrezim
 #Kat-Arthas
 #Lostdemon-Arthas
 #Hoppala-Nathrezim
-#Käseknacker-Nathrezim
 Signum-Nathrezim
 #Wayne-Nathrezim
 Hámmerfall-Nathrezim
