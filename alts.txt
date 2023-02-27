@@ -8,6 +8,7 @@ Bratwurscht-Nathrezim
 #Dot-Nathrezim
 Easystrike-Nathrezim
 Eleonora-Nathrezim
+Eyshe-Nathrezim
 Funkfried-Nathrezim
 Hámmerfall-Nathrezim
 Hitomí-Nathrezim
@@ -28,4 +29,3 @@ Sus-Nathrezim
 Whitegold-Nathrezim
 Yasumi-Forscherliga
 Yumekuî-Nathrezim
-Eyshe-Nathrezim
