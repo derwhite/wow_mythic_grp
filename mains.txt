@@ -2,7 +2,7 @@
 Astoria-Nathrezim
 #Ayumii-Nathrezim
 Bollebo-Nathrezim
-Demage-Nathrezim
+#Demage-Nathrezim
 Easyslice-Nathrezim
 Freya-Nathrezim
 Kat-Arthas
