@@ -1,4 +1,4 @@
-# TWINK LISTE
+# TWINK LIST (alphabetical order)
 Aristana-Nathrezim
 Atheniel-Nathrezim
 Ayumii-Nathrezim
@@ -14,14 +14,18 @@ Hámmerfall-Nathrezim
 Hitomí-Nathrezim
 #Hoppala-Nathrezim
 Ingrîmmisch-Forscherliga
+Käseblume-Nathrezim
+Käsekuchen-Nathrezim
 Käsespätzle-Nathrezim
 Lefiya-Nathrezim
+Ljudmila-Nathrezim
 Loriel-Nathrezim
 #Lostdemon-Arthas
 #Losttempler-Arthas
 Midná-Nathrezim
 Mikoto-Nathrezim
 Nodemage-Nathrezim
+Oo-Nathrezim
 #Shinobu-Nathrezim
 Signum-Nathrezim
 Sorgénkind-Festung der Stürme
@@ -30,4 +34,3 @@ Sus-Nathrezim
 Whitegold-Nathrezim
 Yasumi-Forscherliga
 Yumekuî-Nathrezim
-Ljudmila-Nathrezim
