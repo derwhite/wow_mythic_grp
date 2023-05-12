@@ -12,7 +12,6 @@ Eyshe-Nathrezim
 Funkfried-Nathrezim
 Hámmerfall-Nathrezim
 Hitomí-Nathrezim
-#Hoppala-Nathrezim
 Ingrîmmisch-Forscherliga
 Käseblume-Nathrezim
 Käsekuchen-Nathrezim
@@ -29,6 +28,7 @@ Oo-Nathrezim
 #Shinobu-Nathrezim
 Signum-Nathrezim
 Sorgénkind-Festung der Stürme
+Sup-Nathrezim
 Sus-Nathrezim
 #Wayne-Nathrezim
 Whitegold-Nathrezim

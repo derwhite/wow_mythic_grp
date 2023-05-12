@@ -5,6 +5,7 @@ Bollebo-Nathrezim
 Demage-Nathrezim
 Easyslice-Nathrezim
 Freya-Nathrezim
+Hoppala-Nathrezim
 Kat-Arthas
 Käseknacker-Nathrezim
 Kyriae-Garrosh
@@ -12,7 +13,6 @@ Lenis-Nathrezim
 Liamos-Nathrezim
 Macaronis-Nathrezim
 Nodoká-Nathrezim
-Sup-Nathrezim
 Shalltear-Nathrezim
 Thymár-Festung der Stürme
 Yasuko-Forscherliga
