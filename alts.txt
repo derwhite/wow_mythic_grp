@@ -1,7 +1,6 @@
 # TWINK LIST (alphabetical order)
 Aristana-Nathrezim
 Atheniel-Nathrezim
-Ayumii-Nathrezim
 Bigdaddy-Festung der Stürme
 Bolerion-Nathrezim
 Bratwurscht-Nathrezim
@@ -25,6 +24,7 @@ Midná-Nathrezim
 Mikoto-Nathrezim
 Nodemage-Nathrezim
 Oo-Nathrezim
+Shalltear-Nathrezim
 #Shinobu-Nathrezim
 Signum-Nathrezim
 Sorgénkind-Festung der Stürme

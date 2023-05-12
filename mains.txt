@@ -1,6 +1,6 @@
 # ! marks hidden players like Twinks etc
 Astoria-Nathrezim
-#Ayumii-Nathrezim
+Ayumii-Nathrezim
 Bollebo-Nathrezim
 Demage-Nathrezim
 Easyslice-Nathrezim
@@ -13,6 +13,5 @@ Lenis-Nathrezim
 Liamos-Nathrezim
 Macaronis-Nathrezim
 Nodoká-Nathrezim
-Shalltear-Nathrezim
 Thymár-Festung der Stürme
 Yasuko-Forscherliga
