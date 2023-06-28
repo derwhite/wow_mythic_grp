@@ -6,6 +6,7 @@ Bolerion-Nathrezim
 Bollebo-Nathrezim
 #Dot-Nathrezim
 Drontberta-Nathrezim
+Easyslice-Nathrezim
 Easystrike-Nathrezim
 Eleonora-Nathrezim
 Eyshe-Nathrezim
@@ -37,4 +38,3 @@ Whitegold-Nathrezim
 Yasumi-Forscherliga
 Yumekuî-Nathrezim
 Uluwatu-Nathrezim
-Easydracthyr-Nathrezim
