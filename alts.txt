@@ -25,6 +25,7 @@ Loriel-Nathrezim
 #Losttempler-Arthas
 Midná-Nathrezim
 Mikoto-Nathrezim
+Nemokradon-Nathrezim
 Nodemage-Nathrezim
 Oo-Nathrezim
 Shalltear-Nathrezim
