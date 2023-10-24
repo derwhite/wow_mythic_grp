@@ -8,6 +8,7 @@ Bollebo-Nathrezim
 Drontberta-Nathrezim
 Easyslice-Nathrezim
 Easystrike-Nathrezim
+Eko-Nathrezim
 Eleonora-Nathrezim
 Eyshe-Nathrezim
 Funkfried-Nathrezim
@@ -15,6 +16,7 @@ Hámmerfall-Nathrezim
 Hitomí-Nathrezim
 Ingrîmmisch-Nathrezim
 Käseblume-Nathrezim
+Käseknacker-Thrall
 Käsekuchen-Nathrezim
 Käsespätzle-Nathrezim
 Lefiya-Nathrezim
@@ -34,9 +36,8 @@ Signum-Nathrezim
 Sorgénkind-Festung der Stürme
 Sup-Nathrezim
 Sus-Nathrezim
+Uluwatu-Nathrezim
 #Wayne-Nathrezim
 Whitegold-Nathrezim
 Yasumi-Forscherliga
 Yumekuî-Nathrezim
-Uluwatu-Nathrezim
-Eko-Nathrezim
