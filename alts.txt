@@ -5,7 +5,7 @@ Bigdaddy-Festung der Stürme
 Bolerion-Nathrezim
 Bollebo-Nathrezim
 Doggydot-Festung der Stürme
-#Dot-Nathrezim
+Dot-Nathrezim
 Drontberta-Nathrezim
 Easyslice-Nathrezim
 Easystrike-Nathrezim
