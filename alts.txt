@@ -15,6 +15,7 @@ Eyshe-Nathrezim
 Funkfried-Nathrezim
 Hámmerfall-Nathrezim
 Hitomí-Nathrezim
+Hoppala-Nathrezim
 Ingrîmmisch-Nathrezim
 Käseblume-Nathrezim
 Käseknacker-Thrall
@@ -31,6 +32,7 @@ Mikoto-Nathrezim
 Nemokradon-Nathrezim
 Nodemage-Nathrezim
 Oo-Nathrezim
+Sechzgozz-Festung der Stürme
 Shalltear-Nathrezim
 #Shinobu-Nathrezim
 Signum-Nathrezim
@@ -42,4 +44,3 @@ Uluwatu-Nathrezim
 Whitegold-Nathrezim
 Yasumi-Forscherliga
 Yumekuî-Nathrezim
-Sechzgozz-Festung der Stürme
