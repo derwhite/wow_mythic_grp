@@ -6,7 +6,6 @@ Bolerion-Nathrezim
 Bollebo-Nathrezim
 Doggydot-Festung der Stürme
 Dot-Nathrezim
-Drontberta-Nathrezim
 Easyslice-Nathrezim
 Easystrike-Nathrezim
 Eko-Nathrezim
@@ -29,7 +28,6 @@ Loriel-Nathrezim
 #Losttempler-Arthas
 Midná-Nathrezim
 Mikoto-Nathrezim
-Nemokradon-Nathrezim
 Nodemage-Nathrezim
 Oo-Nathrezim
 Sechzgozz-Festung der Stürme
