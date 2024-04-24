@@ -1,20 +1,21 @@
+# MAIN LIST (lexicographic order)
 # ! marks hidden players like Twinks etc
 Aristana-Nathrezim
 Ayumii-Nathrezim
+Blogran-Nathrezim
 Bratwurscht-Nathrezim
 Demage-Nathrezim
-Dotshot-Nathrezim
 Easydracthyr-Nathrezim
 Freya-Nathrezim
 Kat-Arthas
-Käseknacker-Nathrezim
+Käseknacker-Thrall
 #Kiti-Nathrezim
 Kyriae-Garrosh
 Lenis-Nathrezim
 Liamos-Nathrezim
 Macaronis-Nathrezim
 Nodoká-Nathrezim
+Oo-Nathrezim
 Thymár-Festung der Stürme
 Yasuko-Forscherliga
 #Zephalon-Nathrezim
-Blogran-Nathrezim

@@ -1,4 +1,4 @@
-# TWINK LIST (alphabetical order)
+# TWINK LIST (lexicographic order)
 Astoria-Nathrezim
 Atheniel-Nathrezim
 Bigdaddy-Festung der Stürme
@@ -6,6 +6,7 @@ Bolerion-Nathrezim
 Bollebo-Nathrezim
 Doggydot-Festung der Stürme
 Dot-Nathrezim
+Dotshot-Nathrezim
 Easyslice-Nathrezim
 Easystrike-Nathrezim
 Eko-Nathrezim
@@ -17,7 +18,7 @@ Hitomí-Nathrezim
 Hoppala-Nathrezim
 Ingrîmmisch-Nathrezim
 Käseblume-Nathrezim
-Käseknacker-Thrall
+Käseknacker-Nathrezim
 Käsekuchen-Nathrezim
 Käsespätzle-Nathrezim
 Lefiya-Nathrezim
@@ -29,7 +30,6 @@ Loriel-Nathrezim
 Midná-Nathrezim
 Mikoto-Nathrezim
 Nodemage-Nathrezim
-Oo-Nathrezim
 Sechzgozz-Festung der Stürme
 Shalltear-Nathrezim
 #Shinobu-Nathrezim
