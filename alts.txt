@@ -8,6 +8,8 @@ Cagallí-Nathrezim
 Doggydot-Festung der Stürme
 Dot-Nathrezim
 Dotshot-Nathrezim
+Easydracthyr-Nathrezim
+Easypain-Nathrezim
 Easyslice-Nathrezim
 Easystrike-Nathrezim
 Eko-Nathrezim
