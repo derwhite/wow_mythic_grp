@@ -19,6 +19,6 @@ Nodoká-Nathrezim
 Oo-Nathrezim
 Ragin-Un'Goro
 Roggenmuhme-Antonidas
-Thymár-Festung der Stürme
+#Thymár-Festung der Stürme
 Yasuko-Forscherliga
 #Zephalon-Nathrezim
