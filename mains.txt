@@ -8,18 +8,19 @@ Demage-Nathrezim
 Easydeath-Nathrezim
 Elúnya-Un'Goro
 Freya-Nathrezim
-Kat-Arthas
+Judgement-Taerar
 Käseknacker-Thrall
-#Kiti-Nathrezim
 Kyriae-Garrosh
 Lenis-Nathrezim
 Liamos-Nathrezim
+Losttempler-Arthas
+Lowkey-Nathrezim
 Macaronis-Nathrezim
 Nodoká-Nathrezim
 Oo-Nathrezim
 Ragin-Un'Goro
 Roggenmuhme-Antonidas
-#Thymár-Festung der Stürme
+Theremeus-Mal'Ganis
 Yasuko-Forscherliga
-#Zephalon-Nathrezim
-Lowkey-Nathrezim
+
+

@@ -21,6 +21,7 @@ Haudrauf-Nathrezim
 Hitomí-Nathrezim
 Hoppala-Nathrezim
 Ingrîmmisch-Nathrezim
+Kat-Arthas
 Käseblume-Nathrezim
 Käseknacker-Nathrezim
 Käsekuchen-Nathrezim
@@ -30,20 +31,17 @@ Liebesgott-Festung der Stürme
 Ljudmila-Nathrezim
 Loriel-Nathrezim
 #Lostdemon-Arthas
-#Losttempler-Arthas
 Midná-Nathrezim
 Mikoto-Nathrezim
 Nodemage-Nathrezim
-Sechzgozz-Festung der Stürme
 Shalltear-Nathrezim
 #Shinobu-Nathrezim
 Signum-Nathrezim
-Sorgénkind-Festung der Stürme
 Sup-Nathrezim
 Sus-Nathrezim
 Uluwatu-Nathrezim
 #Wayne-Nathrezim
 Whitegold-Nathrezim
-Yasumi-Forscherliga
+#Yasumi-Forscherliga
 Yumekuî-Nathrezim
 Whitesun-Nathrezim
