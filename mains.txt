@@ -12,7 +12,7 @@ Judgement-Taerar
 Käseknacker-Thrall
 Kyriae-Garrosh
 Lenis-Nathrezim
-Liamos-Nathrezim
+#Liamos-Nathrezim
 Losttempler-Arthas
 Lowkey-Nathrezim
 Macaronis-Nathrezim
