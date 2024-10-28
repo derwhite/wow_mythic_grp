@@ -33,6 +33,7 @@ Loriel-Nathrezim
 #Lostdemon-Arthas
 Midná-Nathrezim
 Mikoto-Nathrezim
+Míyuki-Nathrezim
 Nodemage-Nathrezim
 Shalltear-Nathrezim
 #Shinobu-Nathrezim
