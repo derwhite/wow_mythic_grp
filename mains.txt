@@ -8,7 +8,6 @@ Demage-Nathrezim
 Easydeath-Nathrezim
 Elúnya-Un'Goro
 Freya-Nathrezim
-Judgement-Taerar
 Käseknacker-Thrall
 Kyriae-Garrosh
 Lenis-Nathrezim
@@ -20,5 +19,4 @@ Nodoká-Nathrezim
 Oo-Nathrezim
 Ragin-Un'Goro
 Roggenmuhme-Antonidas
-Theremeus-Mal'Ganis
 Yasuko-Forscherliga
