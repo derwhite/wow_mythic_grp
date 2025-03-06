@@ -36,6 +36,7 @@ Midná-Nathrezim
 Mikoto-Nathrezim
 Míyuki-Nathrezim
 Nodemage-Nathrezim
+Oo-Nathrezim
 Shalltear-Nathrezim
 #Shinobu-Nathrezim
 Signum-Nathrezim
