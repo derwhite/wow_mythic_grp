@@ -3,6 +3,7 @@
 Aristana-Nathrezim
 Ayumii-Nathrezim
 Blogran-Nathrezim
+Bratkartoffl-Nathrezim
 Demage-Nathrezim
 Easydeath-Nathrezim
 Elúnya-Un'Goro
@@ -16,7 +17,6 @@ Lowkey-Nathrezim
 Macaronis-Nathrezim
 Nodoká-Nathrezim
 Ragin-Un'Goro
-Roestzwiebel-Nathrezim
 Roggenmuhme-Antonidas
 Fedini-Nathrezim
 Yasuko-Forscherliga

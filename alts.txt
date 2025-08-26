@@ -4,7 +4,7 @@ Atheniel-Nathrezim
 Bigdaddy-Festung der Stürme
 Bolerion-Nathrezim
 Bollebo-Nathrezim
-Bratkartoffl-Nathrezim
+
 Bratwurscht-Nathrezim
 Cagallí-Nathrezim
 Doggydot-Festung der Stürme
@@ -38,6 +38,7 @@ Mikoto-Nathrezim
 Míyuki-Nathrezim
 Nodemage-Nathrezim
 Oo-Nathrezim
+Roestzwiebel-Nathrezim
 Shalltear-Nathrezim
 #Shinobu-Nathrezim
 Signum-Nathrezim
