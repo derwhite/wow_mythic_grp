@@ -4,6 +4,7 @@ Aristana-Nathrezim
 Ayumii-Nathrezim
 Blogran-Nathrezim
 Bratkartoffl-Nathrezim
+Deha-Nathrezim
 Demage-Nathrezim
 Easydeath-Nathrezim
 Elúnya-Un'Goro
@@ -18,5 +19,4 @@ Macaronis-Nathrezim
 Nodoká-Nathrezim
 Ragin-Un'Goro
 Roggenmuhme-Antonidas
-Fedini-Nathrezim
 Yasuko-Forscherliga
