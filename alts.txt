@@ -7,20 +7,20 @@ Bollebo-Nathrezim
 Whitenoise-Nathrezim
 Bratwurscht-Nathrezim
 Cagallí-Nathrezim
-Doggydot-Festung der Stürme
+#Doggydot-Festung der Stürme
 Dot-Nathrezim
 Dotshot-Nathrezim
 Easydracthyr-Nathrezim
 Easypain-Nathrezim
 Easyslice-Nathrezim
 Easystrike-Nathrezim
-Eko-Nathrezim
+#Eko-Nathrezim
 Eleonora-Nathrezim
-Eyshe-Nathrezim
+#Eyshe-Nathrezim
 Fedini-Nathrezim
 Funkfried-Nathrezim
 Hámmerfall-Nathrezim
-Haudrauf-Nathrezim
+#Haudrauf-Nathrezim
 Hitomí-Nathrezim
 Hoppala-Nathrezim
 Ingrîmmisch-Nathrezim
@@ -31,7 +31,7 @@ Käsekuchen-Nathrezim
 Käsespätzle-Nathrezim
 Lefiya-Nathrezim
 Liebesgott-Festung der Stürme
-Ljudmila-Nathrezim
+#Ljudmila-Nathrezim
 Loriel-Nathrezim
 #Lostdemon-Arthas
 Midná-Nathrezim
@@ -45,7 +45,7 @@ Shalltear-Nathrezim
 Signum-Nathrezim
 Sup-Nathrezim
 Sus-Nathrezim
-Uluwatu-Nathrezim
+#Uluwatu-Nathrezim
 #Wayne-Nathrezim
 Whitegold-Nathrezim
 Yumekuî-Nathrezim

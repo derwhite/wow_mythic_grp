@@ -11,12 +11,12 @@ Elúnya-Un'Goro
 Freya-Nathrezim
 Käseknacker-Thrall
 Kyriae-Garrosh
-Lenis-Nathrezim
+#Lenis-Nathrezim
 #Liamos-Nathrezim
 Losttempler-Arthas
 Lowkey-Nathrezim
 Macaronis-Nathrezim
-Nodoká-Nathrezim
+#Nodoká-Nathrezim
 Ragin-Un'Goro
 Roggenmuhme-Antonidas
 Takenoko-Blackhand
