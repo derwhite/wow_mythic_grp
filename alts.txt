@@ -48,6 +48,7 @@ Sus-Nathrezim
 #Uluwatu-Nathrezim
 #Wayne-Nathrezim
 Whitegold-Nathrezim
+Yasumi-Forscherliga
 Yumekuî-Nathrezim
 Whitesun-Nathrezim
 Cernuna-Nathrezim
